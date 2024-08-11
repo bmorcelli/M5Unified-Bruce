@@ -8,12 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bmorcelli/M5Unified-Bruce.git"
+    "url": "https://github.com/m5stack/M5Unified.git"
   },
   "dependencies": [
     {
-      "name": "M5GFX",
-      "url": "https://github.com/bmorcelli/M5GFX-TFT_eSPI_equivalent"
+      "name": "M5GFX"
     }
   ],
   "version": "0.1.16",
